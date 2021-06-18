@@ -1,0 +1,126 @@
+
+.nav{
+text-align: right;
+padding-right: 50px;
+margin-top: 15px;
+
+height: 40px;
+
+
+}
+.nav a {
+    color: rgb(235, 69, 105);
+    text-decoration: none;
+    padding: 14px 
+   
+
+}
+
+.nav a:hover{
+    color: rgb(121, 46, 81);
+}
+
+
+
+.product1{
+   text-align: center;
+}
+img{
+    border-radius: 50%;
+    width: 400px;
+    padding: 20px;
+}
+.product1img{
+    float: left;
+    padding: 15px;
+    width: 650px;
+}
+h2{
+    text-align: center;
+    color: rgb(121, 46, 81);
+}
+
+.description{
+   
+    font-size: large;
+    
+    
+}
+.paragraph{
+    margin-left: 650px;
+    font-size: larger;
+    color: rgb(121, 46, 81);
+}
+button{
+    font-size: larger;
+    color: darksalmon;
+    border: none;
+    padding: 15px 32px;
+    margin: 4px 2px;
+    text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  
+}
+
+
+.about{
+    text-align: center;
+}
+
+.banner{
+    text-align: center;
+
+}
+
+
+.table-{
+    margin-left: 650px;
+  
+}
+.col2 {
+    background-color:rgb(173, 201, 201) ;
+}
+
+   tr :hover { background-color: #ddd;
+}
+th{
+    height: 40px;
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}
+
+.price{
+    color: rgb(243, 10, 60);
+    font-size: larger;
+}
+
+form{
+    border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-left: 400px;
+ 
+}
+
+input{
+    width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+ input[type=submit] {
+    background-color: rgb(235, 69, 105);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
